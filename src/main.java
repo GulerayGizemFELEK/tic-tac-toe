@@ -14,7 +14,7 @@ public class main extends JFrame implements ActionListener
 	//abcd
 	// S = 1, o = 0
 	int nextTurn = 1;
-	
+	//klhdjkahdjkas
 	public main()
 	{
 		this.setSize(280, 308);
